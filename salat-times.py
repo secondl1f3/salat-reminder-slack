@@ -12,7 +12,7 @@ color = '#36a64f'
 url = f'http://api.aladhan.com/v1/timingsByAddress?address={cityname},{countryname}&method=11&tune=2,2,0,4,2,4,0,2,0'
 username = 'Haji Toped'
 emojicon = ':kaaba:'
-webhookurl = 'https://hooks.slack.com/services/xxxx/xxxxx'
+webhookurl = 'https://hooks.slack.com/services/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'
 print(url)
 
 req_url = urllib.request.urlopen(url)
